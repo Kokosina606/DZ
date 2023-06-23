@@ -1,4 +1,0 @@
-Hello wrold!
-
-qwerty.
-
