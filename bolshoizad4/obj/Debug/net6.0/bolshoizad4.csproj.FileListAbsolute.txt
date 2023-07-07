@@ -1,0 +1,15 @@
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.csproj.AssemblyReference.cache
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.AssemblyInfoInputs.cache
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.AssemblyInfo.cs
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.csproj.CoreCompileInputs.cache
+C:\Users\Profit77\Desktop\bolshoizad4\bin\Debug\net6.0\bolshoizad4.exe
+C:\Users\Profit77\Desktop\bolshoizad4\bin\Debug\net6.0\bolshoizad4.deps.json
+C:\Users\Profit77\Desktop\bolshoizad4\bin\Debug\net6.0\bolshoizad4.runtimeconfig.json
+C:\Users\Profit77\Desktop\bolshoizad4\bin\Debug\net6.0\bolshoizad4.dll
+C:\Users\Profit77\Desktop\bolshoizad4\bin\Debug\net6.0\bolshoizad4.pdb
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.dll
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\refint\bolshoizad4.dll
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.pdb
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\bolshoizad4.genruntimeconfig.cache
+C:\Users\Profit77\Desktop\bolshoizad4\obj\Debug\net6.0\ref\bolshoizad4.dll
